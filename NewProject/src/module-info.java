@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author todde
+ *
+ */
+module NewProject {
+}
