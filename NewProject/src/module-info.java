@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author todde
- *
- */
-module NewProject {
-}
