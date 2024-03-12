@@ -1,0 +1,116 @@
+
+
+
+
+https://automationstepbystep.com/
+
+
+Beginner Tutorials
+-Basics of BBD
+-JSON
+
+
+Menu > Click API > REST Web Services (API)
+
+
+IDE & Editors
+-IntelliJ IDEA
+
+
+
+
+JSON Validator
+===========================
+https://jsonformatter.org/
+
+
+https://codebeautify.org/jsonviewer
+
+
+
+JSON Path
+===========================
+Transvert the JSON path to access data
+https://jsonpathfinder.com/
+
+Search for data, application will display the exists paths to the data
+
+JSON Path Finder plugin
+
+
+
+
+JSON Schema
+===========================
+
+Defines the structure of the JSON message
+Used to validate JSON response
+
+JSON to JSON
+
+https://www.liquid-technologies.com/online-json-to-schema-converter
+
+https://jsonschemavalidator.net
+
+
+
+Package .JSON
+==========================
+
+
+cd newFolder
+$ npm init -y
+
+creates json package file in folder
+
+Keys defined:
+
+package name
+version
+desc
+entry point
+keywords
+author
+scripts
+
+
+Update scripts key
+
+"scripts": {
+	"test": "echo Error Test",
+	"dev": "echo running dev"
+}
+
+
+npm run dev  //run the dev key
+
+
+
+create newFolder
+npm install
+
+$npm install mysql
+
+The json.packages file will include new section in file under dependencies key
+
+
+
+
+
+
+
+
+
+
+
+
+API
+Request  >  Host
+
+Response < Host
+
+
+
+
+
+
